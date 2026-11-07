@@ -1,6 +1,3 @@
-# Flipkart-Sale-Perfromance-Dashboard
-Power BI dashboard analyzing Flipkart sales, customers, orders and product performance.
-
 # Flipkart Sales Performance Dashboard
 
 ## Project Overview
@@ -21,6 +18,14 @@ sales, customer and order performance.
 - Order Status
 - Delivery Type
 - Age Group
+
+## 📈 Key Insights
+- Analyzed 113,000 orders (2015-2020) with 25.4M in total sales and an Average Order Value of 224.97
+- Health & Beauty (31.8%) and Fashion (29.5%) together drove 61% of total sales
+- Electronics contributed only 9% of total sales
+
+## 📂 Dataset
+Public e-commerce sales dataset: 113,000 rows x 19 columns, covering orders from 2015 to 2020.
 
 ## Tools Used
 - Power BI
