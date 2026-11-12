@@ -36,3 +36,5 @@ Public e-commerce sales dataset: 113,000 rows x 19 columns, covering orders from
 - Python
 - Excel
 
+## 👤 Author
+**Davis Wilson**, Data Analyst · [LinkedIn](https://www.linkedin.com/in/datawithdavis) · [GitHub](https://github.com/DataWithDavis)
